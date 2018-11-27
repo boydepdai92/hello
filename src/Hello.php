@@ -1,7 +1,7 @@
 <?php
 namespace Trungnc\SayHello;
 
-class SayHello
+class Hello
 {
     public static function world()
     {
