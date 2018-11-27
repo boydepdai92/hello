@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "trungnc\\SayHello\\": "trungnc/hello-world/src/"
+            "Trungnc\\SayHello\\": "trungnc/hello-world/src/"
         }
     }
 }

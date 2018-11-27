@@ -1,5 +1,5 @@
 <?php
-namespace trungnc\SayHello;
+namespace Trungnc\SayHello;
 
 class SayHello
 {
